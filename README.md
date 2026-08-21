@@ -16,7 +16,11 @@ Welcome to your team's official codebase for the current development cycle.
 * **QA Testers:** Execute and log tests in [`/docs/QA_TEST_MATRIX.md`](./docs/QA_TEST_MATRIX.md)
 * **Cyber Compliance Analysts:** Perform security checks in [`/docs/SECURITY_AUDIT.md`](./docs/SECURITY_AUDIT.md)
 
----
+  Times Fired
+Blaine(9) :( 
+Jack(0)
+Neil(0)
+
 
 ## 👥 Assigned Team Roster
 * **Product Manager (PM):** @Cwimbletingleton
