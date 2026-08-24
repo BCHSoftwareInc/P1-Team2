@@ -1,0 +1,16 @@
+﻿Console.Write("Enter Attendee Name - ");
+string attendee = Console.ReadLine() ?? "";
+Console.Write("Enter Organization Name - ");
+string org = Console.ReadLine() ?? "";
+Console.Write("Enter Contact Email - ");
+string contact = Console.ReadLine() ?? "";
+Console.Write("Enter Access Level - ");
+string access = Console.ReadLine() ?? "";
+Console.WriteLine("+----------------------------------------+");
+Console.WriteLine("|                APEX ENTERTAINMENT PASS |");
+Console.WriteLine("|----------------------------------------|");
+Console.WriteLine($"|  ATTENDEE     : {attendee,-5}  |");
+Console.WriteLine($"|  ORGANIZATION : {org,-5}  |");
+Console.WriteLine($"|  CONTACT      : {contact,-5}  |");
+Console.WriteLine($"|  ACCESS       : {access,-5}  |");
+Console.WriteLine("+----------------------------------------+");

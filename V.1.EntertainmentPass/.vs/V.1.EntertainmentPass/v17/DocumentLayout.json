@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51A03A8C-8CF2-4E4D-A7DB-A3FCE17EF6FA}|V.1.EntertainmentPass.csproj|c:\\users\\bahag258\\desktop\\p1-team2\\v.1.entertainmentpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51A03A8C-8CF2-4E4D-A7DB-A3FCE17EF6FA}|V.1.EntertainmentPass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T15:20:06.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
