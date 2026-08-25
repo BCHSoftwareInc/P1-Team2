@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj": {}
+    "C:\\Users\\bahag258\\Desktop\\P1-Team2\\csharp\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj": {
+    "C:\\Users\\bahag258\\Desktop\\P1-Team2\\csharp\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj",
+        "projectUniqueName": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\csharp\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj",
         "projectName": "V.1.EntertainmentPass",
-        "projectPath": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj",
+        "projectPath": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\csharp\\V.1.EntertainmentPass\\V.1.EntertainmentPass.csproj",
         "packagesPath": "C:\\Users\\bahag258\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\V.1.EntertainmentPass\\obj\\",
+        "outputPath": "C:\\Users\\bahag258\\Desktop\\P1-Team2\\csharp\\V.1.EntertainmentPass\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bahag258\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("V.1.EntertainmentPass")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e01b0ccf0550279dc0eb60970d1c3cba22cbd52b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4f33c3f778ddf0230a00f08fe4f721a4ff95edf")]
 [assembly: System.Reflection.AssemblyProductAttribute("V.1.EntertainmentPass")]
 [assembly: System.Reflection.AssemblyTitleAttribute("V.1.EntertainmentPass")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
